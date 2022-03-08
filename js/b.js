@@ -19,4 +19,4 @@ https://www.w3schools.com/js/js_variables.asp.  */
 var instructor = 60;
 var rating = 40;
 var score = instructor + rating;
-console.log(score);
+console.log('score');
